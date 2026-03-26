@@ -1,1 +1,4 @@
 {"level":"INFO","time":"2026-03-25T20:50:04.550+0800","caller":"core/server.go:25","msg":"server run success on ","address":"0.0.0.0:8080"}
+{"level":"ERROR","time":"2026-03-26T15:39:40.194+0800","caller":"initialize/gorm.go:20","msg":"Failed to connect to Mysql:","error":"dial tcp 127.0.0.1:3307: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2026-03-26T15:46:14.021+0800","caller":"core/server.go:25","msg":"server run success on ","address":"0.0.0.0:8080"}
+{"level":"INFO","time":"2026-03-26T15:46:14.021+0800","caller":"initialize/cron.go:18","msg":"start","keysAndValues":null}
